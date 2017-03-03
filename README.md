@@ -2,12 +2,13 @@
 
 ## Installing
 
+Requires `Node v6.9.0 (LTS)` or higher.
+
 ```
 npm install
 ```
 
 ## Usage
-Requires `Node v6.9.0 (LTS)` or higher.
 
 ```
 npm start
